@@ -1,0 +1,11 @@
+streamlit==1.38.0
+pandas
+requests
+langchain
+langchain-openai
+langchain-community
+easyocr
+pillow
+streamlit-authenticator
+python-dotenv
+reportlab
